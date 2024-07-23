@@ -20,7 +20,7 @@ def dataframe_to_html(df):
 def main():
     # Configuration
     excel_file_path = 'path/to/your/excel_file.xlsx'
-    confluence_url = 'https://learniverse9618.atlassian.net/wiki'
+    confluence_url = 'https://example.net'
     username = 'your-confluence-username'
     api_token = 'your-confluence-api-token'
     page_id = 22642689  # Confluence page ID
